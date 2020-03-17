@@ -16,7 +16,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        IOCO - OpenShift workshop
+        The MAC - OpenShift workshop
       </div>
       <div class="col-lg-6">
       </div>
