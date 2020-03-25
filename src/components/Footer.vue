@@ -16,7 +16,8 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        LSD IOCO - OpenShift workshop
+        LSD IOCO - OpenShift workshop 
+        <br> Mac was here
       </div>
       <div class="col-lg-6">
       </div>
